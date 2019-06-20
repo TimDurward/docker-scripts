@@ -1,0 +1,13 @@
+{
+  "name": "docker-utilities",
+  "version": "0.1.0",
+  "description": "Utility Functions for interacting with Docker",
+  "main": "index.js",
+  "author": "TimDurward (timothy.a.durward@gmail.com)",
+  "license": "MIT",
+  "repository": "github:TimDurward/docker-utils",
+  "dependencies": {
+    "dockerode": "^2.5.8",
+    "tar-fs": "^2.0.0"
+  }
+}
